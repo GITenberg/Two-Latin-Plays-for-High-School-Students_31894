@@ -1,0 +1,26 @@
+_repo: Two-Latin-Plays-for-High-School-Students_31894
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paxson, Susan
+    gutenberg_agent_id: '7028'
+    url: http://www.gutenberg.org/2009/agents/7028
+description: ''
+gutenberg_issued: '2010-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31894'
+  lccn: '11020095'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama in education'
+- !lcc 'PA'
+- !lcsh 'Latin language -- Study and teaching -- Activity programs'
+title: Two Latin Plays for High-School Students
+url: http://www.gutenberg.org/ebooks/31894
